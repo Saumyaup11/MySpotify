@@ -1,0 +1,3 @@
+//It allows us for directory listing
+Options +Indexes
+IndexOptions FancyIndexing NameWidth=* DescriptionWidth=*
